@@ -19,7 +19,6 @@ public class Compras {
         tc=compra1+compra2+compra3;
         pc=tc/3;
         //
-        System.out.println("Actualización");
         System.out.println("El total de compras es: "+tc);
         System.out.println("El promedio de compra es: "+pc);
     }
