@@ -21,5 +21,6 @@ public class Compras {
         //
         System.out.println("El total de compras es: "+tc);
         System.out.println("El promedio de compra es: "+pc);
+        System.out.println("ACTUALIZACIÓN");
     }
 }
